@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.8208332mm"
+   height="5.8208332mm"
+   viewBox="0 0 5.8208332 5.8208332"
+   version="1.1"
+   id="svg4264"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4261">
+    <linearGradient
+       xlink:href="#linearGradient163633"
+       id="linearGradient59562"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.265816,53.710363)"
+       x1="29.10417"
+       y1="9.7895756"
+       x2="29.104172"
+       y2="10.583331" />
+    <linearGradient
+       id="linearGradient163633">
+      <stop
+         style="stop-color:#313131;stop-opacity:1"
+         offset="0"
+         id="stop163629" />
+      <stop
+         style="stop-color:#2c2c2c;stop-opacity:1"
+         offset="1"
+         id="stop163631" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-344.46828,-99.018577)">
+    <g
+       id="g4541"
+       transform="translate(318.00871,40.281135)">
+      <rect
+         style="fill:#1c1c1c;fill-opacity:1;stroke-width:0.151078;stroke-linecap:round"
+         id="rect59534"
+         width="5.8208332"
+         height="5.8208332"
+         x="26.459572"
+         y="58.737442" />
+      <rect
+         style="fill:url(#linearGradient59562);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:396.85;stroke-opacity:0"
+         id="rect59536"
+         width="5.2916641"
+         height="5.2916641"
+         x="26.724159"
+         y="59.002029"
+         rx="1.0583328"
+         ry="1.0583328" />
+      <rect
+         style="fill:#2f2f2f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:396.85;stroke-opacity:0"
+         id="rect59538"
+         width="4.7624998"
+         height="4.7624998"
+         x="26.988739"
+         y="59.266609"
+         rx="0.79374999"
+         ry="0.79374999" />
+    </g>
+  </g>
+</svg>

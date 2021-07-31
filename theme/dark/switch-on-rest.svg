@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.583335mm"
+   height="5.2916694mm"
+   viewBox="0 0 10.583335 5.2916694"
+   version="1.1"
+   id="svg3724"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3721" />
+  <g
+     id="layer1"
+     transform="translate(-99.85922,-145.56127)">
+    <g
+       id="g1953"
+       transform="translate(89.274648,92.644656)">
+      <rect
+         style="fill:#1c1c1c;fill-opacity:1;stroke-width:0.309148"
+         id="rect1879"
+         width="10.583334"
+         height="5.2916651"
+         x="10.584573"
+         y="52.916615" />
+      <rect
+         style="fill:#57c8ff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linejoin:bevel"
+         id="rect508980"
+         width="10.583332"
+         height="5.2916656"
+         x="10.584573"
+         y="52.916611"
+         rx="2.6458333"
+         ry="2.6458333" />
+      <circle
+         style="fill:#66cdff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linejoin:bevel"
+         id="circle511787"
+         cx="18.522072"
+         cy="-55.562443"
+         transform="scale(1,-1)"
+         r="1.8520828" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linejoin:bevel"
+         id="path511335"
+         cx="18.522072"
+         cy="-55.562443"
+         transform="scale(1,-1)"
+         r="1.5874995" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916675mm"
+   height="5.2916675mm"
+   viewBox="0 0 5.2916675 5.2916675"
+   version="1.1"
+   id="svg2315"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2312" />
+  <g
+     id="layer1"
+     transform="translate(-210.58493,-166.06423)">
+    <g
+       id="g409465"
+       transform="translate(200.0016,166.06423)">
+      <g
+         id="g122332">
+        <rect
+           style="fill:#313131;fill-opacity:1;stroke-width:0.137344;stroke-linecap:round"
+           id="rect114660"
+           width="5.2916675"
+           height="5.2916675"
+           x="10.583334"
+           y="4.4472657e-08" />
+        <rect
+           style="fill:#217346;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:396.85;stroke-opacity:0"
+           id="rect114662"
+           width="5.2916641"
+           height="5.2916641"
+           x="10.583334"
+           y="4.4472657e-08"
+           rx="1.0583328"
+           ry="1.0583328" />
+        <rect
+           style="fill:#313131;fill-opacity:1;stroke:#0339a6;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:396.85;stroke-opacity:0"
+           id="rect114664"
+           width="4.7624979"
+           height="4.7624984"
+           x="10.847917"
+           y="0.2645829"
+           rx="0.79374999"
+           ry="0.79374999" />
+      </g>
+      <rect
+         style="fill:#1c1c1c;fill-opacity:1;stroke-width:0.137344;stroke-linecap:round"
+         id="rect169947"
+         width="5.2916675"
+         height="5.2916675"
+         x="10.583334"
+         y="4.4472657e-08" />
+      <rect
+         style="fill:#989898;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:396.85;stroke-opacity:0"
+         id="rect169949"
+         width="5.2916641"
+         height="5.2916641"
+         x="10.583334"
+         y="4.4472657e-08"
+         rx="1.0583328"
+         ry="1.0583328" />
+      <rect
+         style="fill:#1c1c1c;fill-opacity:1;stroke:#0339a6;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:396.85;stroke-opacity:0"
+         id="rect169951"
+         width="4.7624979"
+         height="4.7624984"
+         x="10.847917"
+         y="0.2645829"
+         rx="0.79374999"
+         ry="0.79374999" />
+    </g>
+  </g>
+</svg>

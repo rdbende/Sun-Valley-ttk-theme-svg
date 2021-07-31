@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.583334mm"
+   height="5.2916665mm"
+   viewBox="0 0 10.583334 5.2916665"
+   version="1.1"
+   id="svg3807"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3804" />
+  <g
+     id="layer1"
+     transform="translate(-197.39472,-142.04647)">
+    <g
+       id="g1947"
+       transform="translate(186.81015,83.838196)">
+      <rect
+         style="fill:#1c1c1c;fill-opacity:1;stroke-width:0.309148"
+         id="rect1881"
+         width="10.583334"
+         height="5.2916651"
+         x="10.584572"
+         y="58.208279" />
+      <rect
+         style="fill:#51b7eb;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linejoin:bevel"
+         id="rect568429"
+         width="10.583332"
+         height="5.2916656"
+         x="10.584573"
+         y="58.208279"
+         rx="2.6458333"
+         ry="2.6458333" />
+      <circle
+         style="fill:#5ebced;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linejoin:bevel"
+         id="circle568431"
+         cx="18.522081"
+         cy="-60.854111"
+         transform="scale(1,-1)"
+         r="2.1166661" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0;stroke-linejoin:bevel"
+         id="circle568433"
+         cx="18.522081"
+         cy="-60.854111"
+         transform="scale(1,-1)"
+         r="1.8520833" />
+    </g>
+  </g>
+</svg>

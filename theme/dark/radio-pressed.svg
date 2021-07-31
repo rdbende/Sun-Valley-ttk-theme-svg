@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2926159mm"
+   height="5.2917461mm"
+   viewBox="0 0 5.2926159 5.2917461"
+   version="1.1"
+   id="svg2930"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2927" />
+  <g
+     id="layer1"
+     transform="translate(176.04276,-284.98135)">
+    <g
+       id="g665609"
+       transform="translate(-176.04304,253.23139)">
+      <rect
+         style="fill:#1c1c1c;fill-opacity:1;stroke-width:0.137344;stroke-linecap:round"
+         id="rect662443"
+         width="5.2916489"
+         height="5.2916613"
+         x="0.00027778672"
+         y="31.75005" />
+      <ellipse
+         style="opacity:0.997;fill:#4ca6d5;fill-opacity:1;stroke-width:0.548542;stroke-linecap:square;stroke-linejoin:round"
+         id="ellipse662445"
+         cx="2.6470704"
+         cy="34.395794"
+         rx="2.6458232"
+         ry="2.6458292" />
+      <circle
+         style="opacity:0.997;fill:#58acd8;fill-opacity:1;stroke-width:0.329125;stroke-linecap:square;stroke-linejoin:round"
+         id="circle662447"
+         cx="2.6470704"
+         cy="34.395794"
+         r="1.5875" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#ffff00;stroke-width:0;stroke-linecap:square;stroke-linejoin:round"
+         id="circle662449"
+         cx="2.6470704"
+         cy="34.395794"
+         rx="1.3229164"
+         ry="1.3229163" />
+    </g>
+  </g>
+</svg>
